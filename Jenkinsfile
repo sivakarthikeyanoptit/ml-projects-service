@@ -52,5 +52,3 @@ node('build-slave') {
     }
 
 }
-
-
